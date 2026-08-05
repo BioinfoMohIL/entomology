@@ -1,2 +1,3 @@
-streamlit
-xlsxwriter
+streamlit==1.61.0
+xlsxwriter==3.2.9
+starlette==0.46.2
